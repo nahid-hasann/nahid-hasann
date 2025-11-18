@@ -82,16 +82,3 @@
 
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=mhnahid1w3r&show_icons=true&theme=transparent" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=mhnahid1w3r&theme=transparent" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=mhnahid1w3r&layout=compact&theme=transparent" />
-</p>
