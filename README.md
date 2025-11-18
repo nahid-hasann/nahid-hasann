@@ -1,16 +1,97 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x200?text=Your+Banner+Here" alt="Banner" />
+</p>
 
-<!--
-**nahid-hasann/nahid-hasann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm MH Nahid 👋</h1>
+<h3 align="center">Frontend Developer | Dhaka, Bangladesh</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 👨‍🎓 I’m currently learning **Node.js** to strengthen my backend fundamentals  
+- 🚀 I’m working on my current project: **ZapShift**  
+- 🎯 My career goal is to become a **Frontend Developer**  
+- 💬 I feel comfortable talking about **JavaScript, React, Next.js, Tailwind CSS & Node.js**  
+- 🌱 I enjoy exploring modern web technologies and building clean, user-friendly interfaces  
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=fff&style=for-the-badge" />
+</p>
+
+### 🧑‍💻 Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Authentication-3B82F6?style=for-the-badge&logoColor=fff" />
+</p>
+
+### 🎨 Design Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" />
+</p>
+
+### 🤖 AI / ML (General)
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=fff&style=for-the-badge" />
+</p>
+
+### 🧰 Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge" />
+</p>
+
+
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+  <!-- LinkedIn (Link not added yet) -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:mhnahid1w3r@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/mh.na.hi.d.554448/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge" />
+  </a>
+
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=mhnahid1w3r&show_icons=true&theme=transparent" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=mhnahid1w3r&theme=transparent" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=mhnahid1w3r&layout=compact&theme=transparent" />
+</p>
