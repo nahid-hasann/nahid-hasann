@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x200?text=Your+Banner+Here" alt="Banner" />
-</p>
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm MH Nahid 👋</h1>
