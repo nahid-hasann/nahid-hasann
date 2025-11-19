@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/WpkVYLWx/Chat-GPT-Image-Nov-19-2025-04-34-41-PM.png" alt="Banner" />
+</p>
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm MH Nahid 👋</h1>
