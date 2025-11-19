@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Authentication-3B82F6?style=for-the-badge&logoColor=fff" />
 </p>
 
+
 ### 🎨 Design Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" />
@@ -58,6 +59,20 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge" />
 </p>
+
+## 🚀 Frameworks & Libraries
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" />
+</p>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahid-hasann&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nahid-hasann&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasann&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
