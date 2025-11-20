@@ -4,7 +4,7 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm MH Nahid 👋</h1>
-<h3 align="center">Frontend Developer | Dhaka, Bangladesh</h3>
+<h3 align="center">Full-Stack Developer (React, Next.js, Node.js) | Rangpur</h3>
 
 ---
 
