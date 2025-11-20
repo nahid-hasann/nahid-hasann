@@ -10,11 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 I’m currently learning **Node.js** to strengthen my backend fundamentals  
-- 🚀 I’m working on my current project: **ZapShift**  
-- 🎯 My career goal is to become a **Frontend Developer**  
-- 💬 I feel comfortable talking about **JavaScript, React, Next.js, Tailwind CSS & Node.js**  
-- 🌱 I enjoy exploring modern web technologies and building clean, user-friendly interfaces  
+- 🌱 I’m learning **Node.js & backend fundamentals** to advance as a full-stack developer  
+- 🚀 Currently working on my project: **ZapShift**  
+- 🎯 My career goal is to become a **Full-Stack Developer**  
+- 💬 Comfortable talking about **JavaScript, React, Next.js, Tailwind CSS & Node.js**  
+- ⚡ I love building modern, scalable, and user-friendly web applications
 
 ## 🛠️ Skills & Technologies
 
