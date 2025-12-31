@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm MH Nahid 👋</h1>
 <h3 align="center">Building Scalable & Modern Web Applications</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=MD+MONTASIR+BILLAH;MUGDHO" alt="Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=MH+Nahid" alt="Name" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;JavaScript+Lover;UI%2FUX+Designer" alt="Typing SVG" />
