@@ -80,7 +80,7 @@
 <p align="left">
 
   <!-- LinkedIn (Link not added yet) -->
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/mh-nahid-webdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
   </a>
 
