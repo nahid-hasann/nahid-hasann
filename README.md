@@ -12,6 +12,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0055ff&center=true&vCenter=true&width=500&lines=Junior+MERN+Stack+Developer;React.js+Enthusiast;JavaScript+Lover;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0c1445,100:283593&height=140&section=header&text=Md%20Montasir%20Billah%20Mugdho&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20|%20Bangladesh&descSize=16&descAlignY=75&descColor=64b5f6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
