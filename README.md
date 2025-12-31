@@ -8,13 +8,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🌱 I’m learning **Node.js & backend fundamentals** to advance as a full-stack developer  
-- 🚀 Currently working on my project: **ZapShift**  
-- 🎯 My career goal is to become a **Full-Stack Developer**  
-- 💬 Comfortable talking about **JavaScript, React, Next.js, Tailwind CSS & Node.js**  
-- ⚡ I love building modern, scalable, and user-friendly web applications
+I am a dedicated **Full-Stack MERN Developer** specializing in building modern, scalable, and responsive web applications. With strong expertise in **React and JavaScript**, I enjoy transforming ideas into real, functional digital experiences.
+
+- 💻 **Frontend:** Building dynamic UIs with **React.js, Next.js & Tailwind CSS**.
+- ⚙️ **Backend:** Developing robust REST APIs using **Node.js & Express**.
+- 🗄️ **Database:** Designing efficient data schemas with **MongoDB**.
+- 🔐 **Security:** Implementing secure Authentication using **Firebase & JWT**.
+- 🎯 **Goal:** To write clean, maintainable code and contribute to real-world engineering teams.
+- ⚡ **Fun fact:** I love solving complex logic and optimizing system performance!
+
+📫 **Open for:** Internships, remote collaboration, and Junior Developer opportunities.
 
 ## 🛠️ Skills & Technologies
 
