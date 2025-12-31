@@ -67,11 +67,17 @@
 </p>
 
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahid-hasann&show_icons=true&hide_border=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=nahid-hasann&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasann&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid-hasann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasann&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="top languages" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=nahid-hasann&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
 
 
 
